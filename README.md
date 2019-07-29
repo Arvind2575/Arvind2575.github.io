@@ -1,2 +1,2 @@
-# Arvind2575.github.io
+# Arvind.github.io
 GitHub Pages
